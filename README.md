@@ -7,3 +7,16 @@ It is a simple and responsive weather web application that provides real-time we
 3. 📅 5-Day Forecast: View a 5-day weather forecast with temperature highs, lows, and weather conditions.
 4. 🌍 Geo-location: Automatically detect and display the weather for the user's current location.
 5. 📱 Responsive Design: Mobile-friendly, ensuring the app works seamlessly across devices.
+
+**Tech Stack:**
+1. Frontend: HTML, CSS, JavaScript (React.js)
+2. Backend: Node.js, Express.js 
+3. API: OpenWeather API
+4. Styling: Tailwind CSS / Bootstrap
+
+**Contributions:**
+Contributions are welcome! Feel free to submit issues and pull requests to improve the application.
+
+**License:**
+This project is licensed under the MIT License.
+
