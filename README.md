@@ -14,9 +14,4 @@ It is a simple and responsive weather web application that provides real-time we
 3. API: OpenWeather API
 4. Styling: Tailwind CSS / Bootstrap
 
-**Contributions:**
-Contributions are welcome! Feel free to submit issues and pull requests to improve the application.
-
-**License:**
-This project is licensed under the MIT License.
 
