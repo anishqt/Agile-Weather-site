@@ -15,3 +15,4 @@ It is a simple and responsive weather web application that provides real-time we
 4. Styling: Tailwind CSS / Bootstrap
 
 
+URL : [https://codepen.io/Tanishq-Ranjan/pen/RwdZzLm]
